@@ -28,4 +28,3 @@ If you'd like to discuss projects, collaborate, or share advice on how I can gro
 Thank you for visiting my profile and following my journey to becoming a better developer! 🌟
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giblecdg)](https://github.com/anuraghazra/github-readme-stats)
-[![giblecdg's GitHub stats](https://github-readme-stats.vercel.app/api?username=giblecdg)](https://github.com/anuraghazra/github-readme-stats)

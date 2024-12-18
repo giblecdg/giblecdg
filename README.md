@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**giblecdg/giblecdg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 
+I'm just starting my journey in programming, but every day I'm learning something new and improving my skills. 
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 I am a student.
+- ✨ I am passionate about creating websites.
+- 🔧 I have basic knowledge of:
+  - HTML
+  - CSS
+  - JavaScript
+  - PHP
+  - Python
+  - C# (a little)
+  - Git (basics)
+  - SQL (basics)
+- 🔄 Currently, I am working on web development projects and enhancing my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Goals
+- Develop my programming and web design skills.
+- Learn modern frameworks and libraries.
+- Build a portfolio of professional projects.
+
+## How to Reach Me
+If you'd like to discuss projects, collaborate, or share advice on how I can grow further, feel free to reach out! 
+
+Thank you for visiting my profile and following my journey to becoming a better developer! 🌟

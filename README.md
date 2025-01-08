@@ -6,15 +6,6 @@ I'm just starting my journey in programming, but every day I'm learning somethin
 ## About Me
 - 🎓 I am a student.
 - ✨ I am passionate about creating websites.
-- 🔧 I have basic knowledge of:
-  - HTML
-  - CSS
-  - JavaScript
-  - PHP
-  - Python
-  - Git
-  - SQL
-  - C# (a little)
 - 🔄 Currently, I am working on web development projects and enhancing my skills.
 
 ## My Goals

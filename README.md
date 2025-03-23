@@ -17,3 +17,7 @@ I'm just starting my journey in programming, but every day I'm learning somethin
 If you'd like to discuss projects, collaborate, or share advice on how I can grow further, feel free to reach out! 
 
 Thank you for visiting my profile and following my journey to becoming a better developer! 🌟
+
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@giblecdg/30-nites-of-code)  
+  ![@giblecdg #30NitesOfCode](https://www.codedex.io/api/petStatus?user=giblecdg)

@@ -1,5 +1,3 @@
----
-
 # Hi there! 👋  
 
 Welcome to my GitHub profile!  
@@ -23,6 +21,4 @@ Thank you for visiting my profile and following my journey to becoming a better 
 
 ## #30NitesOfCode:  
   [Check out my progress!](https://www.codedex.io/@giblecdg/30-nites-of-code)  
-  ![@giblecdg #30NitesOfCode](https://www.codedex.io/api/petStatus?user=giblecdg)  
-
----
+  ![@giblecdg #30NitesOfCode](https://www.codedex.io/api/petStatus?user=giblecdg)
